@@ -17,7 +17,7 @@ public class App {
             grilos[i] = new Grilo("Grilo_" + (i+1));
         }
         
-        
+        //iniciando a corrida
         corrida = new Corrida(grilos, linhaChegada);
         
     }
