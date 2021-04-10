@@ -38,7 +38,7 @@ public class ThreadGrilo extends Thread{
             this.run();
         }else{
             colocacao++;
-            System.out.println(this.grilo.getNome() + " foi o " + colocacao + "° e alcançou a linha de chegada com " + pulos + " pulos");
+            System.out.println(this.grilo.getNome() + " foi o " + colocacao + "° colocado e alcançou a linha de chegada com " + pulos + " pulos");
         }
         
         
