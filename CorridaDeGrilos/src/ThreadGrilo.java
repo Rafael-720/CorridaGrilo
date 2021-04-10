@@ -11,7 +11,7 @@ public class ThreadGrilo extends Thread{
     public ThreadGrilo(Grilo g, int linhaChegada) {
         this.setGrilo(g);
         this.setLinhaChegada(linhaChegada);
-        //this.linhaChegada = linhaChegada;
+        
         
     }
     
