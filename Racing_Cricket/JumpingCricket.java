@@ -3,6 +3,8 @@
  */
 public class JumpingCricket extends Thread{
 
+    //REVISANDO CÓDIGO
+
     String name;
     int jumpDistance = 0;
     int totalDistance;
