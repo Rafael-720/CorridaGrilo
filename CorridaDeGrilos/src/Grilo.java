@@ -4,6 +4,8 @@ import java.util.Random;
 public class Grilo {
 
     private int distanciaRandomica;
+
+    //nome do grilo
     private String nome;
     
     public Grilo(String nome){
